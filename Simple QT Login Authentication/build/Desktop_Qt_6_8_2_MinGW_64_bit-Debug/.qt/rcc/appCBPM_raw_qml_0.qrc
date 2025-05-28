@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt/qml/CBPM/">
+    <file alias="Main.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Main.qml</file>
+    <file alias="Utils/CustomInput.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Utils/CustomInput.qml</file>
+    <file alias="Utils/CustomCheckBox.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Utils/CustomCheckBox.qml</file>
+    <file alias="Utils/CustomButton.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Utils/CustomButton.qml</file>
+    <file alias="Pages/LoginPage.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Pages/LoginPage.qml</file>
+    <file alias="Pages/LandingPage.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Pages/LandingPage.qml</file>
+    <file alias="Pages/ProfilePage.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Pages/ProfilePage.qml</file>
+    <file alias="Pages/SettingsPage.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Pages/SettingsPage.qml</file>
+    <file alias="Pages/MessagesPage.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Pages/MessagesPage.qml</file>
+    <file alias="Pages/AnalyticsPage.qml">C:/Qt/GUARDINGER/CBPM/CBPM/Pages/AnalyticsPage.qml</file>
+    <file alias="Images.qrc">C:/Qt/GUARDINGER/CBPM/CBPM/Images.qrc</file>
+  </qresource>
+</RCC>
+

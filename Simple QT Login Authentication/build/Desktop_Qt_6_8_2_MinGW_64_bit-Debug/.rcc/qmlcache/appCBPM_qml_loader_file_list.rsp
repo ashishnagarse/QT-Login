@@ -1,0 +1,14 @@
+--resource
+C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/qmake_CBPM.qrc
+--resource
+C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/appCBPM_raw_qml_0.qrc
+/qt/qml/CBPM/Main.qml
+/qt/qml/CBPM/Utils/CustomInput.qml
+/qt/qml/CBPM/Utils/CustomCheckBox.qml
+/qt/qml/CBPM/Utils/CustomButton.qml
+/qt/qml/CBPM/Pages/LoginPage.qml
+/qt/qml/CBPM/Pages/LandingPage.qml
+/qt/qml/CBPM/Pages/ProfilePage.qml
+/qt/qml/CBPM/Pages/SettingsPage.qml
+/qt/qml/CBPM/Pages/MessagesPage.qml
+/qt/qml/CBPM/Pages/AnalyticsPage.qml

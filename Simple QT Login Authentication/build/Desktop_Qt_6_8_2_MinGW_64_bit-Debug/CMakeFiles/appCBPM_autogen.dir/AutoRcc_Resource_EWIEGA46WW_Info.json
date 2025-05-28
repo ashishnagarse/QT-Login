@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appCBPM_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt/GUARDINGER/CBPM/CBPM",
+	"CMAKE_SOURCE_DIR" : "C:/Qt/GUARDINGER/CBPM/CBPM",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appCBPM_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Qt/GUARDINGER/CBPM/CBPM/Images/lock.svg",
+		"C:/Qt/GUARDINGER/CBPM/CBPM/Images/mail.svg",
+		"C:/Qt/GUARDINGER/CBPM/CBPM/Images/BgImage.png"
+	],
+	"LOCK_FILE" : "C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/appCBPM_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Qt/GUARDINGER/CBPM/CBPM/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/appCBPM_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Qt/GUARDINGER/CBPM/CBPM/Resource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
